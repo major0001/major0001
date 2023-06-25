@@ -5,7 +5,7 @@
   <img src="https://media.giphy.com/media/xBTSwCTFkgfcdTjHMz/giphy.gif" width="100"/>
   
 <div id="badges">
-   <a href="https://www.linkedin.com/in/alex-mutune-17b7111a0?trk=contact-info"
+   <a href="https://www.linkedin.com/in/alex-mutune-17b711a0">
    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
   <a href="https://medium.com/@alexmutune746">
