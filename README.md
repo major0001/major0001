@@ -8,10 +8,10 @@
    <a href="https://www.linkedin.com/in/alex-mutune-17b7111a0?trk=contact-info">
    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
-  <a href="https://medium.com/@alexmutune746">
+  <a href="https://medium.com/@thegreatstory">
   <img src="https://img.shields.io/badge/Medium-white?style=for-the-badge&logo=medium&logoColor=black" alt="Medium"/>
   </a>
-  <a href="https://public.tableau.com/app">
+  <a href="https://public.tableau.com/views/MonitoringBuildingPerformanceandEfficiencyKPIAwesomeDashboard/TotalElectricityConsumption?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link">
   <img src="https://img.shields.io/badge/tableau-navy?style=for-the-badge&logo=tableau&logoColor=white" alt="Tableau"/>
   </a>
   <br>
